@@ -7,3 +7,6 @@ Provides the foundational infrastructure for integrating third-party analytics a
 ```
 composer require spryker-feature/analytics
 ```
+
+## Optional modules
+- [AnalyticsGuiExtension ^1.0.0](https://github.com/spryker/analytics-gui-extension) (Extension)
