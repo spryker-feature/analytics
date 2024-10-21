@@ -9,5 +9,4 @@ composer require spryker-feature/analytics
 ```
 
 ## Optional modules
-- [AnalyticsGui ^1.0.0](https://github.com/spryker/analytics-gui) (MP GUI)
 - [AnalyticsGuiExtension ^1.0.0](https://github.com/spryker/analytics-gui-extension) (Extension)
