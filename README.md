@@ -1,6 +1,6 @@
 # Spryker Feature: Analytics
 
-Provides the foundational infrastructure for integrating third-party analytics adapters, enabling data tracking and reporting functionalities through external services?
+Provides the foundational infrastructure for integrating third-party analytics adapters, enabling data tracking and reporting functionalities through external services.
 
 ## Installation
 
